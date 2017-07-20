@@ -22,12 +22,13 @@ The app can be improved and can be used by vision impaired people to "See with t
 
 # Libraries/Framework/Models Used
 
-SqueezeNet
+SqueezeNet (Model)
 
-CoreML
+CoreML (Framework provided by Apple)
+
 
 # Made By -
 
 Raghav Vashisht with the help of
 
-Devslopes
+[Devslopes](https://devslopes.com/)
